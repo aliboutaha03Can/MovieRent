@@ -1,5 +1,11 @@
 # MovieRent — Boutique de Location de Films
 Une application React complète simulant une boutique de location de films en ligne, avec un design cinématographique sombre et élégant.
+<img width="3840" height="1955" alt="image" src="https://github.com/user-attachments/assets/6de9b629-fcbc-47f3-bb10-872346995873" />
+
+
+
+
+
 
 # Aperçu
 MovieRent est une application moderne permettant aux utilisateurs de :
