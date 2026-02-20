@@ -10,9 +10,14 @@ Une application React complète simulant une boutique de location de films en li
 # Aperçu
 MovieRent est une application moderne permettant aux utilisateurs de :
 - Parcourir un catalogue de 22 films
-- Rechercher et filtrer les films selon plusieurs critères
 - Consulter les détails complets d'un film
+<img width="3840" height="1955" alt="image" src="https://github.com/user-attachments/assets/dce53496-ccff-434b-b98b-ae9cd46c61d7" />
+
+- Rechercher et filtrer les films selon plusieurs critères
+  <img width="767" height="1692" alt="image" src="https://github.com/user-attachments/assets/24550bea-b496-4e04-b5b5-f5b5e5876c7c" />
+
 - Gérer un panier de location avec quantité en jours
+  <img width="3839" height="1959" alt="image" src="https://github.com/user-attachments/assets/7ac640f1-1410-4d2b-b804-c1e12bb9f133" />
 - Bénéficier de réductions et calculer automatiquement les totaux
 
 # Installation & Lancement
